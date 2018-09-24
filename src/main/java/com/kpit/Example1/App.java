@@ -1,14 +1,14 @@
 package com.kpit.Example1;
 
 /**
- * Hello world!
+ * @author sulemans
  *
  */
-public class App{
+public class App {
     /**
-     * @param args
+     * @param args - accepts list of string arguments.
      */
-    public static void main(String[] args){
-        System.out.println( "Hello World!" );
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
     }
 }
